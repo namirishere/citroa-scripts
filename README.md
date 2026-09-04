@@ -105,7 +105,7 @@ Other forum github.com/namirishere/citroa-scripts/discussions
 
 Wiki github.com/namirishere/citroa-scripts/wiki  
 
-Blog citorascripts.tumblr.com  
+Blog citroaascripts.tumblr.com  
 
 Malling Lists groups.google.com/g/citroascripts  
 
