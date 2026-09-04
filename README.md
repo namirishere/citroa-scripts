@@ -10,7 +10,7 @@ What apps it contains Im giving you here
 
 3. qbittorrent  
 
-4. code  its VS Code  
+4. code its VS Code  
 
 5. thunderbird and discord  
 
